@@ -1,5 +1,5 @@
 ### Neural_Networks_From_Scratch.ipynb:
-Implemetation of a Neural Network using numpy over the MNIST dataset.
+Implementation of a Neural Network using numpy over the MNIST dataset.
 <br>With help of Michael Nielsen's excellent online book [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html).
 
 ### Neural_Networks_From_Scratch(Vectorized).ipynb:
