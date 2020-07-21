@@ -6,10 +6,10 @@ Implemetation of a Neural Network using numpy over the MNIST dataset.
 My implementation of a fully matrix-based approach to the same problem as above.*
 
 ### mnist.pkl.gz:
-Pickled form of the MNIST datset
+Pickled form of the MNIST datset.
 
 ### mnist_loader.py:
-A library to load the MNIST datset
+A library to load the MNIST datset.
 
 
 (*Note that results may vary slightly due to random initialization of weights and biases.)
