@@ -17,7 +17,7 @@ The decoding part of the architecture is a series of Transpose Convolution layer
 
 ## Dataset 
 The dataset used was of about 4000+ landscape images [from this Kaggle dataset](https://www.kaggle.com/arnaud58/landscape-pictures/tasks).
-I could have gone with a larger dataset with more diverse images, but that would need a lot of amount of compute power (*sigh*).
+I could have gone with a larger dataset with more diverse images, but that would need a lot of compute power (*sigh*).
 
 ## Results
 
