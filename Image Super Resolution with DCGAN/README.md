@@ -7,8 +7,8 @@
 Single Image Super Resolution (SISR) is a long standing problem in computer vision. Given an input low resolution image, the objective is to estimate its corresponding high resolution image. <br/><br/>
 
 The current best approaches to the problem are deep learning based, pioneered by the [SRCNN paper by Dong, et al.](https://arxiv.org/pdf/1501.00092.pdf) The SOTA benchmarks have been set mostly by GAN based methods such as the [SRGAN by Ledig, et al.](https://arxiv.org/pdf/1609.04802.pdf)
+<br/>
 
-<br/><br/>
 This is my attempt at implementing a simple [DCGAN](https://arxiv.org/pdf/1511.06434.pdf) to perform SISR at a scale of 4x.
 
 
